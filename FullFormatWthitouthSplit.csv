@@ -1,0 +1,4 @@
+ID item,Name,InternationalСode,MediumCode,PhoneBody,ID_person(not for users)
+dd39e14b-4321-49de-88bd-bafb52bd0f27,тестовый человек,8,495,6682791,6c08ce70-3e5a-49a9-9374-c206300499ea
+70a787f3-2030-4178-b8f1-3705ac71c64f,тестовый человек,+7,925,100508,6c08ce70-3e5a-49a9-9374-c206300499ea
+123123123,Новый человек,+7,888,789123,6c08ce70-3e5a-49a9-9374-c0000009ea
